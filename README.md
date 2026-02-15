@@ -24,7 +24,7 @@ This interactive website explains complex compiler and linker concepts through v
 ## Project Structure
 
 ```
-E:\AI Agent\Explainer/
+Explainer/
 ├── src/
 │   ├── components/          # React components
 │   │   ├── HeroSection.tsx       # Landing section with IPC vs Integrated
